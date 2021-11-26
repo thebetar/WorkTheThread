@@ -9,5 +9,5 @@ function add(x, y) {
   return x + y;
 }
 
-WorkTheThread(2, 5); // returns 7
+WorkTheThread(add, 2, 5); // returns 7
 ```
