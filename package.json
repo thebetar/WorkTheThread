@@ -1,6 +1,6 @@
 {
-  "name": "workthethreads",
-  "version": "1.0.0",
+  "name": "workthethread",
+  "version": "1.0.2",
   "description": "Easy api for worker threads",
   "main": "index.js",
   "private": false,
