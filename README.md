@@ -1,6 +1,6 @@
 ﻿# WorkTheThread
 Also having a hard time with Worker Threads?
-With this package you can just throw in a function and some arguments and it will do the rest!
+With this package you can just throw in a function and some arguments and it will do the rest on a diffirent thread!
 
 ```javascript
 const WorkTheThread = require('WorkTheThread');
