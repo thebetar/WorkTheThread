@@ -1,18 +1,20 @@
 {
-  "name": "@thebetar/workthethreads",
+  "name": "workthethreads",
   "version": "1.0.0",
   "description": "Easy api for worker threads",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "jest"
   },
   "author": "Lars Vonk",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
     "jest": "^27.3.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thebetar/WorkTheThread.git"
